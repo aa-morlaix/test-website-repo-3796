@@ -1,6 +1,8 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# ALCOOLIQUES ANONYMES MORLAIX
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Nous nous adressons à toute personne qui a un problème d’alcool et souhaite s’en sortir. 
+
+C’est gratuit, c’est anonyme, c’est un endroit de parole et d’écoute active et surtout, ça brise l’isolement social dont souffre bien des alcooliques et ça leur procure un sentiment d’appartenance.
