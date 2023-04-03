@@ -1,16 +1,16 @@
 ---
 title: Activités
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Les Alcooliques Anonymes sont une association de personnes qui partagent entre eux leur expérience, leur force et leur espoir dans le but de résoudre leur problème commun et d'aider d'autres alcooliques à se rétablir.
+
+Le désir d'arrêter de boire est la seule condition pour devenir membre des AA.
+
+Les AA ne demandent ni cotisation ni droit d'entrée, nous nous finançons par nos propres contributions.
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+A titre indicatif, les activités des AA incluent :
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
-
+- 3 réunions hebdomadaires sur Morlaix le mardi à 20h30, Landivisiau le jeudi à 20h et à Saint Pol de Léon le dimanche à 10h30.
+- Une permanence téléphonique locale au 06 42 23 72 22
+- Une permanence téléphonique nationale au 09 69 39 40 20
