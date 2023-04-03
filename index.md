@@ -1,7 +1,7 @@
 ---
 title: Accueil
 ---
-# ALCOOLIQUES ANONYMES MORLAIX
+# Alcooliques Anonymes Morlaix
 
 Nous nous adressons à toute personne qui a un problème d’alcool et souhaite s’en sortir. 
 
